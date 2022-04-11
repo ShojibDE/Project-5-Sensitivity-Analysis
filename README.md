@@ -11,22 +11,12 @@ Understand how  which product variation  has what rating
 
 Using WordCloud  to see the most positive words appears in the review
 
-
 ![Most_Positive_words](https://user-images.githubusercontent.com/81525107/162844556-8650db8e-daca-47cd-b1a0-ff2c77a3f324.png)
-
-
 
 Using WordCloud  to see the most negative words appears in the review
 ![Most_Negativetive_words](https://user-images.githubusercontent.com/81525107/162844496-5b0e1000-bbb9-4399-9e15-6772ac80abfd.png)
 
-
-
-
 # Model performance 
 Confusion Matrix
-
-
-
-
 
 ![confusion_matrix](https://user-images.githubusercontent.com/81525107/162844418-320273b1-fc59-436c-9125-feccae98de40.png)
